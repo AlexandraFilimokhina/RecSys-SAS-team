@@ -10,6 +10,7 @@ Requires the code and datasets from https://github.com/hexiangnan/neural_collabo
 
 Example how to run experiment 1:
 ```
+shell
 python Experiment1_train.py \
   --mf_n_components 16 \
   --gmf_n_components 8 \
